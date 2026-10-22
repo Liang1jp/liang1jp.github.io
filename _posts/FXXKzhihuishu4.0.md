@@ -7,6 +7,10 @@ categories: note
 
 # 智慧树自动刷课脚本4.0
 
+[这是链接](https://github.com/Liang1jp/FxxkZhiHuiShuMeow2.0)
+
+只要下载zip即可
+
 ## 前文提要
 
 该脚本最初来源于苏州大学一位学姐开发的最初版本，经过mhp_2233的2.0和3.0调教，增加了翻转课的刷课和自动答题的功能。
