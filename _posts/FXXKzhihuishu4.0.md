@@ -7,7 +7,7 @@ categories: note
 
 # 智慧树自动刷课脚本4.0
 
-[这是链接](https://github.com/Liang1jp/FxxkZhiHuiShuMeow2.0)
+[这是链接](https://github.com/Liang1jp/zhihuishu4.0)
 
 只要下载zip即可
 
