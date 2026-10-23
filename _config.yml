@@ -1,5 +1,9 @@
-title: 凉的博客
+title: Liang的博客
 description: 一个奇奇怪怪的角落
 theme: minima
 lang: zh-CN
 timezone: Asia/Shanghai
+
+header_pages:
+  - index.md
+  - about.md
